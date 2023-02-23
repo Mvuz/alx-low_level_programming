@@ -17,5 +17,5 @@ int main(void)
 		alph++;
 	}
 
-	_putchar ('\n');
+	_putchar('\n');
 }
