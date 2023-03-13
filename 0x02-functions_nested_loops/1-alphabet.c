@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - Aphabets in lower case
+ * print_alphabet - Aphabets in lower case
  *
  * Return: Always 0 (Success)
  */
